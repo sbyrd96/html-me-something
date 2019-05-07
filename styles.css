@@ -1,49 +1,47 @@
-
 header {
-	padding: 1.875em 0;
-	font-family: 'Permanent Marker', cursive;
+  padding: 1.875em 0;
+  font-family: "Permanent Marker", cursive;
 }
 
-header h1 {
-	color: purple;
-	font-family: 'Permanent Marker', cursive;
-	text-align: center;
+#bigtitle {
+  color: purple;
+  background-color: rgb(212, 185, 214);
+  font-family: "Permanent Marker", cursive;
+  text-align: center;
 }
 
-
-
-header h1, h2, h3 { 
-	background-color: rgb(212, 185, 214);
-	font-family: 'Permanent Marker', cursive;
-	text-align: center;
+.myheaders {
+  background-color: rgb(212, 185, 214);
+  font-family: "Permanent Marker", cursive;
+  text-align: center;
 }
 
 p {
-	margin-top: 50px;
-	margin-bottom: 50px;
-	margin-right: 75px;
-	margin-left: 40px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 75px;
+  margin-left: 40px;
 }
 
 figure {
-	margin: 0;
-	padding: 0;
-	text-align: center;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
 figcaption {
-	font-style: italic;
+  font-style: italic;
 }
 
 img {
-	width: "600";
-	height: "400";
+  width: "600";
+  height: "400";
 }
 
 footer {
-	text-align: center;
-	padding: 3em;
+  text-align: center;
+  padding: 3em;
 }
 footer p {
-	display: inline-block;
+  display: inline-block;
 }
